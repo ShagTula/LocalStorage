@@ -1,1 +1,9 @@
 c:\users\khalilov.v\documents\visual studio 2015\Projects\localStorage\localStorage\bin\Debug\localStorage.exe.config
+c:\users\khalilov.v\documents\visual studio 2015\Projects\localStorage\localStorage\bin\Debug\localStorage.exe
+c:\users\khalilov.v\documents\visual studio 2015\Projects\localStorage\localStorage\bin\Debug\localStorage.pdb
+c:\users\khalilov.v\documents\visual studio 2015\Projects\localStorage\localStorage\obj\Debug\localStorage.csprojResolveAssemblyReference.cache
+c:\users\khalilov.v\documents\visual studio 2015\Projects\localStorage\localStorage\obj\Debug\localStorage.Form1.resources
+c:\users\khalilov.v\documents\visual studio 2015\Projects\localStorage\localStorage\obj\Debug\localStorage.Properties.Resources.resources
+c:\users\khalilov.v\documents\visual studio 2015\Projects\localStorage\localStorage\obj\Debug\localStorage.csproj.GenerateResource.Cache
+c:\users\khalilov.v\documents\visual studio 2015\Projects\localStorage\localStorage\obj\Debug\localStorage.exe
+c:\users\khalilov.v\documents\visual studio 2015\Projects\localStorage\localStorage\obj\Debug\localStorage.pdb

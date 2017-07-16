@@ -52,6 +52,10 @@
     <Compile Include="Form1.Designer.cs">
       <DependentUpon>Form1.cs</DependentUpon>
     </Compile>
+    <Compile Include="Model\LocalCategory.cs" />
+    <Compile Include="Model\LocalData.cs" />
+    <Compile Include="Model\LocalFile.cs" />
+    <Compile Include="Model\LocalRecord.cs" />
     <Compile Include="Model\User.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
