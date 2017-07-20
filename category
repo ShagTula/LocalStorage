@@ -6,6 +6,6 @@
         public bool Public{ get; set; }
         public dynamic data { get; set; }
         public Guid Parent { get; set; }
-        public Guid users[] { get; set; }
+        public Guid[] users { get; set; }
         public Guid creator { get; set; }//owner user
     }
