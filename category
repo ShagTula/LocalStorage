@@ -3,7 +3,7 @@
         public Guid id { get; set; }
         public string Name { get; set; }
         public string Description { get; set; }
-        public bool _public{ get; set; }
+        public bool Public{ get; set; }
         public dynamic data { get; set; }
         public Guid Parent { get; set; }
         public Guid users[] { get; set; }
