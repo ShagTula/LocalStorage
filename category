@@ -1,0 +1,11 @@
+ public class Category
+    {
+        public Guid id { get; set; }
+        public string Name { get; set; }
+        public string Description { get; set; }
+        //public bool ???
+        // data JSON ???
+        public Guid Parent { get; set; }
+        public Guid user { get; set; }
+        //public Guid creeator ???
+    }
