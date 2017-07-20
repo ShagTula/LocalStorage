@@ -1,14 +1,14 @@
-    public class MultipartNote
+        public class MultipartNote
     {
-        public Guid Id { get; set; }
-        public string Name { get; set; }
-        public string Description { get; set; }
-        public bool Public { get; set; } 
-        public Guid Category { get; set; }
+        public Guid Id {get; set;}
+        public string Name {get; set;}
+        public string Description {get; set;}
+        public bool Public {get; set;}
+        public Guid Category {get; set;}
 
-        public Guid viewers[] { get; set; }  //  ???????
-        public Guid collaborators[] { get; set; }  // ???????
-        public Guid owner { get; set; } 
-        public Guid[] parts { get; set; }  // ???????
-        public  dynamic histiry { get; set; } 
+        public Guid[] Viewers {get; set;}  //  ???????
+        public Guid[] Collaborators {get; set;}  // ???????
+        public Guid Owner {get; set;}
+        public Guid[] Parts {get; set;}  // ???????
+        public dynamic Histiry {get; set;}
     }
