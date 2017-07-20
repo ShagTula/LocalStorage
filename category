@@ -4,8 +4,8 @@
         public string Name { get; set; }
         public string Description { get; set; }
         public bool _public{ get; set; }
-        // data JSON ???
+        public dynamic data { get; set; }
         public Guid Parent { get; set; }
         public Guid user { get; set; }
-        //public Guid creeator ???
+        public Guid creator 
     }
