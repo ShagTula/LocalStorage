@@ -3,12 +3,12 @@
         public Guid Id { get; set; }
         public string Name { get; set; }
         public string Description { get; set; }
-        public bool _public { get; set; } 
-        public Guid Cotegory { get; set; }
+        public bool Public { get; set; } 
+        public Guid Category { get; set; }
 
-        public Guid viewer { get; set; }  // ???????
-        public Guid collaborator { get; set; }  // ???????
-        public Guid owner { get; set; }  // ???????
-        public Guid parts { get; set; }  // ???????
-        //public JSON histiry { get; set; }  // ???????
+        public Guid viewers[] { get; set; }  //  ???????
+        public Guid collaborators[] { get; set; }  // ???????
+        public Guid owner { get; set; } 
+        public Guid[] parts { get; set; }  // ???????
+        public  dynamic histiry { get; set; } 
     }
