@@ -70,7 +70,7 @@
     <Compile Include="Interface\UserLogin.Designer.cs">
       <DependentUpon>UserLogin.cs</DependentUpon>
     </Compile>
-    <Compile Include="Model\LocalCategory.cs" />
+    <Compile Include="Model\Category.cs" />
     <Compile Include="Model\LocalData.cs" />
     <Compile Include="Model\LocalFile.cs" />
     <Compile Include="Model\LocalRecord.cs" />

@@ -10,16 +10,10 @@ namespace localStorage.Model
     {
         public Guid Id { get; set; }
         public string Login { get; set; }
-        public string Password { get; set; }
-        public string FirstName { get; set; }
-        public string LastName { get; set; }
-        public string Patronymic { get; set; }
-        public string Phone { get; set; }
-        public string AvatarUrl { get; set; }
-        public DateTime Age { get; set; }
+        public dynamic data { get; set; }
 
-        //isFullInfo Флаг о том что
-        //данные пользователя полные
-        public bool isFullInfo { get; set; }
+        public Guid infoStatus { get; set; }
+        public Guid chatStatus { get; set; }
+        public Guid privateStatus { get; set; }
     }
 }
