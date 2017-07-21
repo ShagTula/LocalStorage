@@ -73,7 +73,7 @@
     <Compile Include="Model\Category.cs" />
     <Compile Include="Model\LocalData.cs" />
     <Compile Include="Model\LocalFile.cs" />
-    <Compile Include="Model\LocalRecord.cs" />
+    <Compile Include="Model\MultipartNote.cs" />
     <Compile Include="Model\User.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />

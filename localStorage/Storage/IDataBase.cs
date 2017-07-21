@@ -18,7 +18,7 @@ namespace localStorage.Storage
         User GetCurrentUser();
         IEnumerable<User> GetAllUsers();
 
-        IEnumerable<LocalRecord> GetLocalRecordsByUserId(Guid userid);
+        IEnumerable<MultipartNote> GetLocalRecordsByUserId(Guid userid);
         IEnumerable<LocalCategory> GetFirstLevelCategoryesByLRecordId(Guid lRecordId);
         IEnumerable<LocalCategory> GetOtherLevelCategoryesByCategoryId(Guid lCategoryId);
         IEnumerable<LocalData> GetDataByLCategoryId(Guid categoryId);
