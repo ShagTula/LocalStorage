@@ -6,6 +6,9 @@ using System.Threading.Tasks;
 
 namespace localStorage.Model
 {
+    //Класс для хранения пользователя
+    //Временно создаем пользователя
+    //по умолчанию
     public class User
     {
         public Guid Id { get; set; }

@@ -6,7 +6,8 @@ using System.Threading.Tasks;
 
 namespace localStorage.Model
 {
-    //Записная книга
+    //Книга для записей
+    //Используется интерфейсом BookChoice.cs
     public class LocalRecord
     {
         public Guid Id { get; set; }

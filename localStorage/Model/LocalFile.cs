@@ -6,6 +6,8 @@ using System.Threading.Tasks;
 
 namespace localStorage.Model
 {
+    //Модель хранения файлов
+    //Пока нет реализации в UI
     public class LocalFile
     {
         public Guid Id;
